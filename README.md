@@ -25,7 +25,7 @@ To simply train on cifar-10, please run with the following command:
   
     python train_cifar.py --gpu-id 0,1 -a grcnn110_sk
 
-if you want to use the weight sharing setting, you can set "--weight-sharing" to "True".
+If you want to use the weight sharing setting, you can set "--weight-sharing" to "True".
 
 To train on the cifar-100, you can add "--dataset cifar100" to above commands.
 
