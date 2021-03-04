@@ -9,6 +9,8 @@ __all__ = [
     'grcnn56', 'grcnn110_sk', 'grcnn110',
 ]
 
+
+
 class SKConv(nn.Module):
     def __init__(self,in_channels,out_channels,stride=1,M=2,r=16,L=32, groups=32):
 
@@ -110,7 +112,7 @@ class GRCL(nn.Module):
       if SKconv:
        layers.append(SKConv(planes, planes, groups=16, r=32))  
       else:
-       layers.append(nn.Conv2d(planes, planes, kernel_size=3, stride=1, padding=1, bias=False, groups=16))
+       layers.append(nn.Conv2d(planes, planes, kernel_size=3, stride=1, padding=1, bias=False))
        layers.append(nn.BatchNorm2d(planes, momentum=0.05))
        layers.append(nn.ReLU(inplace=True))
 
@@ -129,7 +131,7 @@ class GRCL(nn.Module):
      if SKconv:
        sk_conv = SKConv(planes, planes, groups=16, r=32)
      else:
-       conv_ = nn.Conv2d(planes, planes, kernel_size=3, stride=1, padding=1, bias=False, groups=16)
+       conv_ = nn.Conv2d(planes, planes, kernel_size=3, stride=1, padding=1, bias=False)
        init.kaiming_normal_(conv_.weight)
 
      conv_2 = nn.Conv2d(planes, int(planes*self.expansion), kernel_size=1, stride=1, padding=0, bias=False)
