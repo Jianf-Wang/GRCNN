@@ -64,7 +64,7 @@ python imagenet_train.py \
   --arch skgrcnn55 \
 ```
 
-  **GRCNN-109:** <br />
+  **SK-GRCNN-109:** <br />
 
 ```
 python imagenet_train.py \
