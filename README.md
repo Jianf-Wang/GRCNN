@@ -71,3 +71,6 @@ python imagenet_train.py \
   --arch skgrcnn109 \
   
 The pretrained will be released soon .
+
+Citation
+-----------------
