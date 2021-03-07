@@ -78,3 +78,12 @@ The pretrained will be released soon .
 
 Citation
 -----------------
+
+```
+@Article{jianfeng2021grcnn,
+  author  = {Jianfeng Wang and Xiaolin Hu},
+  title   = {Convolutional Neural Networks with Gated Recurrent Connections},
+  journal = {TPAMI},
+  year    = {2021},
+}
+```
