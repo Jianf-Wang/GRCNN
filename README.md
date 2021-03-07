@@ -32,7 +32,7 @@ To train on the cifar-100, you can add "--dataset cifar100" to above commands.
 
 Training on ImageNet
 -----------------
-To train GRCNN or SK-GRCNN on ImageNet, please run with the following command::
+To train GRCNN or SK-GRCNN on ImageNet, please run with the following command:
 
   **GRCNN-55:** <br />
   
