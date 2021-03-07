@@ -37,9 +37,13 @@ To train GRCNN or SK-GRCNN on ImageNet, please run with the following command::
   **GRCNN-55:** <br />
 
 python imagenet_train.py \
+
   --epochs 100 \
+  
   --dist-url 'tcp://localhost:10010' --multiprocessing-distributed --world-size 1 --rank 0 \
+  
   --cos False \
+  
   --arch grcnn55 \
   
   **GRCNN-109:** <br />
