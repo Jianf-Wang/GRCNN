@@ -32,4 +32,38 @@ To train on the cifar-100, you can add "--dataset cifar100" to above commands.
 
 Training on ImageNet
 -----------------
-The code on imagenet will be released soon.
+To train GRCNN or SK-GRCNN on ImageNet, please run with the following command::
+
+  **GRCNN-55:** <br />
+
+python imagenet_train.py \
+  --epochs 100 \
+  --dist-url 'tcp://localhost:10010' --multiprocessing-distributed --world-size 1 --rank 0 \
+  --cos False \
+  --arch grcnn55 \
+  
+  **GRCNN-109:** <br />
+  
+python imagenet_train.py \
+  --epochs 100 \
+  --dist-url 'tcp://localhost:10010' --multiprocessing-distributed --world-size 1 --rank 0 \
+  --cos False \
+  --arch grcnn109 \
+ 
+ **SK-GRCNN-55:** <br />
+
+python imagenet_train.py \
+  --epochs 120 \
+  --dist-url 'tcp://localhost:10010' --multiprocessing-distributed --world-size 1 --rank 0 \
+  --cos True \
+  --arch skgrcnn55 \
+  
+  **GRCNN-109:** <br />
+  
+python imagenet_train.py \
+  --epochs 120 \
+  --dist-url 'tcp://localhost:10010' --multiprocessing-distributed --world-size 1 --rank 0 \
+  --cos True \
+  --arch skgrcnn109 \
+  
+The pretrained will be released soon .
