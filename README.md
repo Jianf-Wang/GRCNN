@@ -1,5 +1,7 @@
 # GRCNN
-This is an implementation of the paper "Convolutional Neural Networks with Gated Recurrent Connections".
+
+Pytroch implementation of T-PAMI 2021 paper "Convolutional Neural Networks with Gated Recurrent Connections", a journal extension of our preliminary work "Gated Recurrent Convolution Neural Network for
+OCR" (https://github.com/Jianf-Wang/GRCNN-for-OCR) presented in NeurIPS 2017. Extensive experiments are presented in this journal version. 
 
 Build
 -----
