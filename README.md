@@ -74,7 +74,7 @@ python imagenet_train.py \
   --arch skgrcnn109 \
 ```  
 
-The pretrained will be released soon .
+The pretrained model will be released soon .
 
 Citation
 -----------------
