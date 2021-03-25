@@ -48,7 +48,7 @@ python imagenet_train.py \
   --cos True \
   --arch skgrcnn55 \
 ```
-As for GRCNN-109 and SK-GRCNN-109, please set "-a".
+As for GRCNN-109 and SK-GRCNN-109, please set "-arch".
 
 Pretrained Model
 -----------------
