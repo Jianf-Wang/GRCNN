@@ -61,7 +61,7 @@ parser.add_argument('--lr', '--learning-rate', default=0.1, type=float,
                     metavar='LR', help='initial learning rate', dest='lr')
 parser.add_argument('--schedule', default=[30, 60, 90], nargs='*', type=int,
                     help='learning rate schedule (when to drop lr by 10x)')
-parser.add_argument('--cos', default=True, type=bool,
+parser.add_argument('--cos', action='store_true',
                     help='use cosine lr schedule')
 parser.add_argument('--momentum', default=0.9, type=float, metavar='M',
                     help='momentum')
