@@ -58,7 +58,7 @@ The pretrained model are released:
 <!-- TABLE HEADER -->
 <th valign="bottom">name</th>
 <th valign="bottom">top-1 acc.</th>
-<th valign="bottom">model</th>
+<th valign="bottom">model (Google Drive)</th>
 <!-- TABLE BODY -->
 <tr>
 <td align="center">GRCNN-55</td>
@@ -68,7 +68,7 @@ The pretrained model are released:
 <tr>
 <td align="center">SK-GRCNN-55</td>
 <td align="center">79.38</td>
-<td align="center"><a href="https://drive.google.com/file/d/1WQ-gH2IYLa9vAn8J6qaYE8ppVj25v4Y2/view?usp=sharing">download</a></td>
+<td align="center"><a href="https://drive.google.com/file/d/1AlDQCo1hLe5P7OiDI3Pvlq_qHVdvGGxx/view?usp=sharing">download</a></td>
 </tr>
 </tr>
 <tr>
