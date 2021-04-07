@@ -51,8 +51,41 @@ As for GRCNN-109 and SK-GRCNN-109, please set "--arch".
 
 Pretrained Model
 -----------------
+The pretrained model are released:
 
-The pretrained model will be released soon .
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom">name</th>
+<th valign="bottom">top-1 acc.</th>
+<th valign="bottom">model</th>
+<!-- TABLE BODY -->
+<tr>
+<td align="center">GRCNN-55</td>
+<td align="center">77.02</td>
+<td align="center"><a href="https://drive.google.com/file/d/1WQ-gH2IYLa9vAn8J6qaYE8ppVj25v4Y2/view?usp=sharing">download</a></td>
+</tr>
+<tr>
+<td align="center">SK-GRCNN-55</td>
+<td align="center">79.38</td>
+<td align="center"><a href="https://drive.google.com/file/d/1WQ-gH2IYLa9vAn8J6qaYE8ppVj25v4Y2/view?usp=sharing">download</a></td>
+</tr>
+</tr>
+<tr>
+<td align="center">GRCNN-109</td>
+<td align="center">Comming Soon...</td>
+<td align="center">Comming Soon...</td>
+</tr>
+</tr>
+<tr>
+<td align="center">SK-GRCNN-109</td>
+<td align="center">Comming Soon...</td>
+<td align="center">Comming Soon...</td>
+</tr>
+</tbody></table>
+
+
+
 
 Citation
 -----------------
