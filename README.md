@@ -84,7 +84,15 @@ The pretrained model are released:
 </tr>
 </tbody></table>
 
+To simply use the pretrained models, run following commands:
 
+```
+import torch
+import models.imagenet.GRCNN as grcnn
+model = grcnn.grcnn_55()
+model.load_state_dict(torch.load('checkpoint_params_grcnn55.pt'))
+
+```
 
 
 Citation
