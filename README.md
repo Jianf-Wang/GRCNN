@@ -63,7 +63,7 @@ The pretrained model are released:
 <tr>
 <td align="center">GRCNN-55</td>
 <td align="center">77.02</td>
-<td align="center"><a href="https://drive.google.com/file/d/1GzHPSMhBjlzd7KW-Z2iFR4arNh49Zymv/view?usp=sharing">download</a></td>
+<td align="center"><a href="https://drive.google.com/file/d/1AlDQCo1hLe5P7OiDI3Pvlq_qHVdvGGxx/view?usp=sharing">download</a></td>
 </tr>
 <tr>
 <td align="center">SK-GRCNN-55</td>
