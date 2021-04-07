@@ -57,30 +57,35 @@ The pretrained model are released:
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
 <th valign="bottom">name</th>
+<th valign="bottom">param</th>
 <th valign="bottom">top-1 acc.</th>
 <th valign="bottom">model (Google Drive)</th>
 <!-- TABLE BODY -->
 <tr>
 <td align="center">GRCNN-55</td>
+<td align="center">24.9M</td>
 <td align="center">77.02</td>
 <td align="center"><a href="https://drive.google.com/file/d/1xm5ILJbuyp6p5XsUvrH2alvBZHnWo6EE/view?usp=sharing">download</a></td>
 </tr>
 <tr>
 <td align="center">SK-GRCNN-55</td>
+<td align="center">27.4M</td>
 <td align="center">79.38</td>
 <td align="center"><a href="https://drive.google.com/file/d/1ODZl_z7mp5cuo-huSuhKNBD1vmEA87yB/view?usp=sharing">download</a></td>
 </tr>
 </tr>
 <tr>
 <td align="center">GRCNN-109</td>
-<td align="center">Comming Soon...</td>
-<td align="center">Comming Soon...</td>
+<td align="center">45.1M</td>
+<td align="center">Coming Soon...</td>
+<td align="center">Coming Soon...</td>
 </tr>
 </tr>
 <tr>
 <td align="center">SK-GRCNN-109</td>
-<td align="center">Comming Soon...</td>
-<td align="center">Comming Soon...</td>
+<td align="center">50.0M</td>
+<td align="center">Coming Soon...</td>
+<td align="center">Coming Soon...</td>
 </tr>
 </tbody></table>
 
