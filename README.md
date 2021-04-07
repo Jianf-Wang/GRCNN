@@ -23,7 +23,7 @@ For other network architectures, please set "-a".
 
 If you want to use the weight sharing setting, you can set "--weight-sharing" to "True".
 
-To train on the cifar-100, you can add "--dataset cifar100" to above commands.
+To train on the cifar-100, you can add "--dataset cifar100" to the command.
 
 Training on ImageNet
 -----------------
