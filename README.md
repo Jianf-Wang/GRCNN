@@ -51,7 +51,7 @@ As for GRCNN-109 and SK-GRCNN-109, please set "--arch".
 
 Pretrained Model
 -----------------
-The ImageNet pretrained model are released:
+The ImageNet pretrained models are released:
 
 <table><tbody>
 <!-- START TABLE -->
