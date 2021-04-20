@@ -60,18 +60,21 @@ The ImageNet pretrained models are released:
 <th valign="bottom">param</th>
 <th valign="bottom">top-1 acc.</th>
 <th valign="bottom">model (Google Drive)</th>
+<th valign="bottom">model (Baidu Disk)</th>
 <!-- TABLE BODY -->
 <tr>
 <td align="center">GRCNN-55</td>
 <td align="center">24.9M</td>
 <td align="center">77.02</td>
 <td align="center"><a href="https://drive.google.com/file/d/1xm5ILJbuyp6p5XsUvrH2alvBZHnWo6EE/view?usp=sharing">download</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1gwP6qT9r_N7834IBaf4WTA">download</a>  (code: w63j)  </td>
 </tr>
 <tr>
 <td align="center">SK-GRCNN-55</td>
 <td align="center">27.4M</td>
 <td align="center">79.38</td>
 <td align="center"><a href="https://drive.google.com/file/d/1ODZl_z7mp5cuo-huSuhKNBD1vmEA87yB/view?usp=sharing">download</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1q3cuSuk_9ShNFT1Y2Mr-2w">download</a>  (code: 8gt1)  </td>
 </tr>
 </tr>
 <tr>
@@ -79,11 +82,13 @@ The ImageNet pretrained models are released:
 <td align="center">45.1M</td>
 <td align="center">Coming Soon...</td>
 <td align="center">Coming Soon...</td>
+<td align="center">Coming Soon...</td>
 </tr>
 </tr>
 <tr>
 <td align="center">SK-GRCNN-109</td>
 <td align="center">50.0M</td>
+<td align="center">Coming Soon...</td>
 <td align="center">Coming Soon...</td>
 <td align="center">Coming Soon...</td>
 </tr>
