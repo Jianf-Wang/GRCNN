@@ -88,9 +88,9 @@ The ImageNet pretrained models are released:
 <tr>
 <td align="center">SK-GRCNN-109</td>
 <td align="center">50.0M</td>
-<td align="center">Coming Soon...</td>
-<td align="center">Coming Soon...</td>
-<td align="center">Coming Soon...</td>
+<td align="center">80.01</td>
+<td align="center"><a href="https://drive.google.com/file/d/18lQTJ5BKBlwhQCw4che82CvkCgjKnBev/view?usp=sharing">download</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1bdr9cMQr8V_Rsc09MxXcuw">download</a>  (code: rmjq)  </td>
 </tr>
 </tbody></table>
 
