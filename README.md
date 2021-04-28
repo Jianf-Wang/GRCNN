@@ -80,9 +80,9 @@ The ImageNet pretrained models are released:
 <tr>
 <td align="center">GRCNN-109</td>
 <td align="center">45.1M</td>
-<td align="center">Coming Soon...</td>
-<td align="center">Coming Soon...</td>
-<td align="center">Coming Soon...</td>
+<td align="center">78.20</td>
+<td align="center"><a href="https://drive.google.com/file/d/1VrSdUAgQsaksQsWUPZcvYBPT5xEknal4/view?usp=sharing">download</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1-8A8n07kgJI3KWLSDjhbaQ">download</a>  (code: bry4)  </td>
 </tr>
 </tr>
 <tr>
