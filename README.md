@@ -81,8 +81,8 @@ The ImageNet pretrained models are released:
 <td align="center">GRCNN-109</td>
 <td align="center">45.1M</td>
 <td align="center">78.20</td>
-<td align="center"><a href="https://drive.google.com/file/d/1VrSdUAgQsaksQsWUPZcvYBPT5xEknal4/view?usp=sharing">download</a></td>
-<td align="center"><a href="https://pan.baidu.com/s/1-8A8n07kgJI3KWLSDjhbaQ">download</a>  (code: bry4)  </td>
+<td align="center"><a href="https://drive.google.com/file/d/168Blab7p2xKBgRaT-Os3RZ24MMvKcDfS/view?usp=sharing">download</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1Bo9ES8cbLrAu9lMIYpqHaA">download</a>  (code: 4ya3)  </td>
 </tr>
 </tr>
 <tr>
