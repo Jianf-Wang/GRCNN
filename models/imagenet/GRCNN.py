@@ -127,8 +127,6 @@ class GRCL(nn.Module):
          d_conv_3 = nn.Conv2d(planes, planes, kernel_size=3, stride=2, padding=1, bias=False)
          init.kaiming_normal_(d_conv_3.weight)
          self.add_module('d_conv_3', d_conv_3)
-         self.add_module('d_bn_1e', nn.BatchNorm2d(planes))
-         self.add_module('d_relu_1e', nn.ReLU(inplace=True))
 
        d_conv_1e = nn.Conv2d(planes, int(planes * self.expansion), kernel_size=1, stride=1, padding=0, bias=False)
        init.kaiming_normal_(d_conv_1e.weight)
