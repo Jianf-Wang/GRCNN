@@ -66,8 +66,8 @@ The ImageNet pretrained models are released:
 <td align="center">GRCNN-55</td>
 <td align="center">24.9M</td>
 <td align="center">77.02</td>
-<td align="center"><a href="https://drive.google.com/file/d/1xm5ILJbuyp6p5XsUvrH2alvBZHnWo6EE/view?usp=sharing">download</a></td>
-<td align="center"><a href="https://pan.baidu.com/s/1gwP6qT9r_N7834IBaf4WTA">download</a>  (code: w63j)  </td>
+<td align="center"><a href="https://drive.google.com/file/d/1u3ymzK6i06lSWxckNueVvjmkPWe32Ems/view?usp=sharing">download</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1oOVcVBXHuDXL993jbR0d8A">download</a>  (code: u7yy)  </td>
 </tr>
 <tr>
 <td align="center">SK-GRCNN-55</td>
