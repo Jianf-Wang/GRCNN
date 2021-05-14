@@ -149,12 +149,8 @@ class GRCL(nn.Module):
 
     if self.downsample:
       x_s_1 = self.d_conv(self.d_ave(self.d_relu(self.d_bn(x_s))))
-
-      x_s_ = self.d_conv_1(self.d_relu_1(self.d_bn_1(x_s)))
-      x_s__ = self.d_conv_3(self.d_relu_3(self.d_bn_3(x_s_)))
-
-      x_s_2 = self.d_conv_1e(x_s__)
-
+      x_s_2 = self.d_conv_1(self.d_relu_1(self.d_bn_1(x_s)))
+      x_s_2 = self.d_conv_1e(self.d_conv_3(self.d_relu_3(self.d_bn_3(x_s_2))))
       x_s = x_s_1 + x_s_2
 
     return x_s
