@@ -67,14 +67,14 @@ The ImageNet pretrained models are released:
 <td align="center">24.9M</td>
 <td align="center">77.02</td>
 <td align="center"><a href="https://drive.google.com/file/d/12SusuxuMttubHIfNqn3gmEqwxLYXU_vZ/view?usp=sharing">download</a></td>
-<td align="center"><a href="https://pan.baidu.com/s/17_Kh70_fcLHE3CyIpesS2g">download</a>  (code: wcr7)  </td>
+<td align="center"><a href="https://pan.baidu.com/s/1HQc-JpzGgqqVbufpkLKH0Q">download</a>  (code: vdb1)  </td>
 </tr>
 <tr>
 <td align="center">SK-GRCNN-55</td>
 <td align="center">27.4M</td>
 <td align="center">79.38</td>
 <td align="center"><a href="https://drive.google.com/file/d/1nIxu_R6HJewy5B4-grcA8y7lXMY2xasB/view?usp=sharing">download</a></td>
-<td align="center"><a href="https://pan.baidu.com/s/1p5EQr1TWsAQzQTiRJFn7Ng">download</a>  (code: aagu)  </td>
+<td align="center"><a href="https://pan.baidu.com/s/1VVHuE7uMQITw0ykL2BlMeQ">download</a>  (code: temi)  </td>
 </tr>
 </tr>
 <tr>
@@ -82,7 +82,7 @@ The ImageNet pretrained models are released:
 <td align="center">45.1M</td>
 <td align="center">78.20</td>
 <td align="center"><a href="https://drive.google.com/file/d/1hsGieLXUDPLSEy5Imou-o1ptr4Pu2iPh/view?usp=sharing">download</a></td>
-<td align="center"><a href="https://pan.baidu.com/s/1tzDqODBnIbDUAc9h-czPkw">download</a>  (code: 7pnw)  </td>
+<td align="center"><a href="https://pan.baidu.com/s/1SAPCpDyAZuuDpFGpYA-O_A">download</a>  (code: sxcd)  </td>
 </tr>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ The ImageNet pretrained models are released:
 <td align="center">50.0M</td>
 <td align="center">80.01</td>
 <td align="center"><a href="https://drive.google.com/file/d/1R3dBtHS8EEfs4ha9kIPaQe15Ms9JLuwx/view?usp=sharing">download</a></td>
-<td align="center"><a href="https://pan.baidu.com/s/1iGaD_MMWlo7PyohTZM0-oA">download</a>  (code: ceh3)  </td>
+<td align="center"><a href="hhttps://pan.baidu.com/s/1DmirYIWd_yC1ZIMAWtT6zQ">download</a>  (code: 93tr)  </td>
 </tr>
 </tbody></table>
 
