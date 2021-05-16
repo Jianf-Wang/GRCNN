@@ -51,7 +51,7 @@ As for GRCNN-109 and SK-GRCNN-109, please set "--arch".
 
 Pretrained Model
 -----------------
-The ImageNet pretrained models are released:
+The ImageNet pretrained models are released. Note that we also release the weight sharing version of GRCNN-55 and GRCNN-109. The weight sharing version GRCNNs have less parameters and achieve competitive results on ImageNet when compared with other light weight models. 
 
 <table><tbody>
 <!-- START TABLE -->
