@@ -117,14 +117,6 @@ model.load_state_dict(torch.load('checkpoint_params_grcnn55.pt'))
 ```
 
 
-Object Detection
------------------
-In order to adapt GRCNNs to different detection methods, we integrate GRCNNs into **mmdetection**. More details can be found in the './mmdetection' directory. Some GRCNN based results are listed as follows:
-
-
-
-
-
 Citation
 -----------------
 
