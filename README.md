@@ -97,6 +97,13 @@ The ImageNet pretrained models are released. Note that we also release the weigh
 <td align="center"><a href="https://drive.google.com/file/d/1R3dBtHS8EEfs4ha9kIPaQe15Ms9JLuwx/view?usp=sharing">download</a></td>
 <td align="center"><a href="https://pan.baidu.com/s/1DmirYIWd_yC1ZIMAWtT6zQ">download</a>  (code: 93tr)  </td>
 </tr>
+<tr>
+<td align="center">GRCNN-109 (weight sharing)</td>
+<td align="center">*12.1M*</td>
+<td align="center"> -- </td>
+<td align="center"> Coming Soon ... </a></td>
+<td align="center"> Coming Soon ... </td>
+</tr>
 </tbody></table>
 
 To simply use the pretrained models, run following commands:
