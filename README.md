@@ -94,8 +94,8 @@ The ImageNet pretrained models are released. Note that we also release the weigh
 <td align="center">GRCNN-55 (weight sharing)</td>
 <td align="center">*12.0M*</td>
 <td align="center">75.49</td>
-<td align="center"><a href="https://drive.google.com/file/d/1R3dBtHS8EEfs4ha9kIPaQe15Ms9JLuwx/view?usp=sharing">download</a></td>
-<td align="center"><a href="https://pan.baidu.com/s/1DmirYIWd_yC1ZIMAWtT6zQ">download</a>  (code: 93tr)  </td>
+<td align="center"><a href="https://drive.google.com/file/d/1zn8T6PU6OPKo86uajc2BMS_2lOBpoOf_/view?usp=sharing">download</a></td>
+<td align="center"><a href="https://pan.baidu.com/s/1VyBBaQTJ3SbH8OK26JgVpw">download</a>  (code: s11g)  </td>
 </tr>
 <tr>
 <td align="center">GRCNN-109 (weight sharing)</td>
