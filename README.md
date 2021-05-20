@@ -100,9 +100,9 @@ The ImageNet pretrained models are released. Note that we also release the weigh
 <tr>
 <td align="center">GRCNN-109 (weight sharing)</td>
 <td align="center">*12.1M*</td>
-<td align="center"> -- </td>
-<td align="center"> Coming Soon ... </a></td>
-<td align="center"> Coming Soon ... </td>
+<td align="center"> 76.00 </td>
+<td align="center"><a href="https://drive.google.com/file/d/1bwb2jnwQPRH2vcUn8mHOowH3CPfp02Wx/view?usp=sharing">download</a></td>
+<td align="center"> <a href="https://pan.baidu.com/s/1wTMtzsLQ3uCK0Iu1wBLqbw">download</a> (code: 4eiv)  </td>
 </tr>
 </tbody></table>
 
