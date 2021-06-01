@@ -116,6 +116,18 @@ model.load_state_dict(torch.load('checkpoint_params_grcnn55.pt'))
 
 ```
 
+Detection
+-----------------
+The experiments of object detection in the paper are conducted based on the repository of the original papers. But in order to widely evaluate GRCNN on different object detection methods, we integrated GRCNN into a well-known object detetion toolbox: MMDetection. 
+
+A simple command to train a GRCNN109 based mask_rcnn:
+
+```
+./tools/dist_train.sh configs/GRCNN/mask_rcnn_grcnn109_fpn_2x_coco.py 8
+```
+
+More information about configuration files and GRCNN can be found in the directory "./mmdetection/configs/GRCNN" and "./mmdetection/mmdet/models/backbones/GRCNN.py"
+
 
 Citation
 -----------------
