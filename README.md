@@ -120,7 +120,15 @@ Detection
 -----------------
 The experiments of object detection in the paper are conducted based on the repository of the original papers. But in order to widely evaluate GRCNN on different object detection methods, we integrated GRCNN into a well-known object detetion toolbox: MMDetection. 
 
-A simple command to train a GRCNN109 based mask_rcnn:
+For the installation, please go to the the direction "./mmdetection" and use the following command: 
+
+```
+ conda env create -f GRCNN_Detect.yaml 
+ conda activate GRCNN_Detect
+ pip install -v -e .
+```
+
+After the installation, a simple command to train a GRCNN109 based mask_rcnn:
 
 ```
 ./tools/dist_train.sh configs/GRCNN/mask_rcnn_grcnn109_fpn_2x_coco.py 8
