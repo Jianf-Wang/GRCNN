@@ -26,11 +26,6 @@ class Imagenet_D(torch.utils.data.Dataset):
 
         img_list_all  = pickle.load(open(self.img_list, 'rb'))
         
-        i = 0
-        for ele in img_list_all:
-            label = ele[0].split('/')[-2]
-            self.label_list[label] = i
-            i+=1
 
         for ele in img_list_all:
             label = ele[0].split('/')[-2]
